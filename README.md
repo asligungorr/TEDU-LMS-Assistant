@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **AI-Powered Academic Support Hub** is an innovative academic assistance platform designed specifically for TED University (TEDU) students. Leveraging advanced non-parametric large language model (LLM) grounding techniques—such as Retrieval-Augmented Generation (RAG), structured output control, and function calling—the system revolutionizes how students engage with their course materials and manage academic responsibilities.
+The **TEDU LMS Assistant** is an innovative academic assistance platform designed specifically for TED University (TEDU) students. Leveraging advanced non-parametric large language model (LLM) grounding techniques—such as Retrieval-Augmented Generation (RAG), structured output control, and function calling—the system revolutionizes how students engage with their course materials and manage academic responsibilities.
 
 This platform offers comprehensive study support, including the generation of practice questions, detailed explanations of study materials, and timely reminders to help students stay on track. By integrating directly with TEDU's Learning Management System (LMS) and utilizing robust databases, the system aims to enhance learning outcomes and student success.
 
